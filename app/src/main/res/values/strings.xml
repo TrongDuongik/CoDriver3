@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">CoDriver3</string>
+    <string name="AppID">fVI7DB5cdgedoKkxoaQk</string>
+    <string name="AppCode">gDr6Ur9_dcanf30noLIFlQ</string>
+    <string name="LicenseKey">Dr/PwUp9YzkljHJWsHsSHL8zVDl/Euyr5h+qytgKIHVfFcZJV5kkTv/1VVyDiOF8ybCRkGjGbfNV2eknB1er8J7XuL6dDqWhWFCP2bK/AGal6q+ef2ZoO8e/HbOo/LKG/9jI2GDJiv2DpjlMMTBVfKh28QJP4VLCm9qBfC6mQt/dcrxDgc5deh7o69vGgHuSYBVEm9HWRtTbRYIhuqcTyHSQyVskeRyMJop8D16KBDbE1iKughQ4mo86qRW6y0WQw/SpQn7prD8Din7ylaYGpGMHd7pg5fYmPY/E/3GfNst+/TftHT/QiLUXdCj+/FxN+IhiGDc8ATFvQNT6kuOnkpp06GBBMnZGKspjxe/k/3hOFb5aAlWY2M8vcywbTboazbu58fZwT5U3QIzXAP2n4I45oMJZXx6jXphWbfLmMiP0roN2xXIbOxciDLFd68B+7cW8rCw3LJ8jstdMAKWOErd2Jek4SGey6sS2evCoG7WvMbwSiSFbKtKz8SmJeVnVpN96DHcJIarh/GtlT7ygKodj8YaxXHs4uGeeJ3YlPmG6vg7Cr/ysBYEBCos3Wo8HOKR6vnGQ5msrX81RvI8CUhWlebcDloX4q3jbNR2/A920PYTUtrDWtQB7zS8IoE0zNYSTqENAdZib2dG6oq5psqSYv+HkRcGvEmgcHaD6N2g=</string>
+
+
+    <string name="action_set_location_method">Set location method</string>
+    <string name="title_select_location_method">Select location method</string>
+
+    <!-- Location method names shown on dialog. -->
+    <string-array name="locationMethodNames">
+        <item name="locationMethodGps">GPS</item>
+        <item name="locationMethodNetwork">Network</item>
+        <item name="locationMethodGpsNetwork">Gps and Network</item>
+        <item name="locationMethodGpsNetworkIndoor">GPS, Network and Indoor</item>
+        <item name="locationMethodIndoor">Indoor</item>
+    </string-array>
+
+    <!-- Location method enumeration names. -->
+    <string-array name="locationMethodValues">
+        <item name="locationMethodGps">GPS</item>
+        <item name="locationMethodNetwork">NETWORK</item>
+        <item name="locationMethodGpsNetwork">GPS_NETWORK</item>
+        <item name="locationMethodGpsNetworkIndoor">GPS_NETWORK_INDOOR</item>
+        <item name="locationMethodIndoor">INDOOR</item>
+    </string-array>
+
+    <string name="action_set_indoor_mode">Set indoor mode</string>
+    <string name="title_select_indoor_mode">Select indoor mode</string>
+
+    <!-- Indoor positioning mode names shown on dialog. -->
+    <string-array name="indoorPositioningModeNames">
+        <item name="indoorPositioningModeAutomatic">Automatic</item>
+        <item name="indoorPositioningModeCommunity">Community</item>
+        <item name="indoorPositioningModePrivate">Private</item>
+        <item name="indoorPositioningModeDraft">Draft</item>
+    </string-array>
+
+    <!-- Indoor positioning mode enumeration names. -->
+    <string-array name="indoorPositioningModeValues">
+        <item name="indoorPositioningModeAutomatic">AUTOMATIC</item>
+        <item name="indoorPositioningModeCommunity">COMMUNITY</item>
+        <item name="indoorPositioningModePrivate">PRIVATE</item>
+        <item name="indoorPositioningModeDraft">DRAFT</item>
+    </string-array>
+</resources>
